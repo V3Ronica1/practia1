@@ -5,17 +5,15 @@
  */
 package ejercicios;
 
-/**
- *
- * @author ITCA
- */
+
 public class Resistencia_Equivalente {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+       
     }
     
 }
